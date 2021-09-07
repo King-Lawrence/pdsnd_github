@@ -191,7 +191,7 @@ def user_stats(df):
         print('The earliest birth year was ' + str(earliest_birth_year) + ', the most recent birth year was ' + str(recent_birth_year) + ' and the most frequent birth year was ' + str(frequent_birth_year))
 
     except:
-        print("No data available for this city's birth year")
+        print("No data is available for this city's birth year")
 
     print("\nThis took %s seconds to complete." % (time.time() - start_time))
     print('-'*40)
