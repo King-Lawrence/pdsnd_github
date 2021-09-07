@@ -15,7 +15,7 @@ Chicago.csv, new_york_city.csv, washington.csv
 
 ### Required Software
 Code editing software (e.g. Atom, Sublime Text, Visual Studio Code, etc.)
-Anaconda
+Anaconda navigator
 
 ### Credits
 I consulted the Python for Everybody book and got a bit of help from these links;
